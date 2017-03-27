@@ -1,0 +1,137 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="AttachProject">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl meta back_space" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDownWithSelection" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="EditorMoveDownAndScrollWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+  </action>
+  <action id="EditorMoveUpAndScrollWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <keyboard-shortcut first-keystroke="shift meta multiply" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="EditorUpWithSelection" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="GotoTest" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Replace" />
+  <action id="SelectAllOccurrences" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>

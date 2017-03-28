@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T19:19:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-03-27T11:32:17</property>
+    <property name="modified">2017-03-28T08:11:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -768,6 +768,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">

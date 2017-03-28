@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Groovy" />
+      <blacklist language="Java" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Java" />
+      <blacklist language="PHP">
+        <added pattern="\Hatchly\Pages\Page.attr(keyPath,options,dataSource)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

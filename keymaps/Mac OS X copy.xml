@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="EditorUpWithSelection" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />

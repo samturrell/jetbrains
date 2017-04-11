@@ -15,6 +15,11 @@
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />

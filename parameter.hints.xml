@@ -4,12 +4,9 @@
       <blacklist language="Groovy" />
       <blacklist language="Java" />
       <blacklist language="PHP">
-        <removed pattern="" />
-      </blacklist>
-      <blacklist language="Groovy" />
-      <blacklist language="Java" />
-      <blacklist language="PHP">
         <added pattern="\Hatchly\Pages\Page.attr(keyPath,options,dataSource)" />
+        <added pattern="\app(make,parameters)" />
+        <removed pattern="" />
       </blacklist>
     </blacklists>
   </component>

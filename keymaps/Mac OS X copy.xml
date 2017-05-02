@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />

@@ -6,15 +6,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php70/7.0.14_7/bin/php" id="36aeb3b2-1fb2-4b5c-bc5b-f6684a1f1092" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.5_17/bin/php" id="36aeb3b2-1fb2-4b5c-bc5b-f6684a1f1092" name="PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php70/7.0.14_7/bin/php-cgi" php_cli="/usr/local/Cellar/php70/7.0.14_7/bin/php" path_separator=":" version="7.0.14">
-          <additional_php_ini>/usr/local/etc/php/7.0/conf.d/ext-mcrypt.ini, /usr/local/etc/php/7.0/conf.d/ext-xdebug.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.0/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.5_17/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.5_17/bin/php" path_separator=":" version="7.1.5">
+          <additional_php_ini />
+          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -64,14 +64,14 @@
             <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
-            <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/local/Cellar/php70/7.0.14_7/lib/php/extensions/no-debug-non-zts-20151012" />
+            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.5_17/lib/php/extensions/no-debug-non-zts-20160303" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
-            <configuration_option name="gd.jpeg_ignore_warning" value="0" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="1" />
+            <configuration_option name="hard_timeout" value="2" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
             <configuration_option name="highlight.html" value="#000000" />
@@ -109,8 +109,6 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="mcrypt.algorithms_dir" value="" />
-            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -157,9 +155,9 @@
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
-            <configuration_option name="post_max_size" value="100M" />
+            <configuration_option name="post_max_size" value="8M" />
             <configuration_option name="precision" value="14" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -167,7 +165,7 @@
             <configuration_option name="request_order" value="GP" />
             <configuration_option name="sendmail_from" value="" />
             <configuration_option name="sendmail_path" value="/usr/sbin/sendmail -t -i " />
-            <configuration_option name="serialize_precision" value="17" />
+            <configuration_option name="serialize_precision" value="-1" />
             <configuration_option name="session.auto_start" value="0" />
             <configuration_option name="session.cache_expire" value="180" />
             <configuration_option name="session.cache_limiter" value="nocache" />
@@ -176,19 +174,19 @@
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
             <configuration_option name="session.cookie_secure" value="" />
-            <configuration_option name="session.entropy_file" value="/dev/urandom" />
-            <configuration_option name="session.entropy_length" value="32" />
             <configuration_option name="session.gc_divisor" value="1000" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="1" />
-            <configuration_option name="session.hash_bits_per_character" value="5" />
-            <configuration_option name="session.hash_function" value="0" />
             <configuration_option name="session.lazy_write" value="1" />
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
             <configuration_option name="session.save_path" value="" />
             <configuration_option name="session.serialize_handler" value="php" />
+            <configuration_option name="session.sid_bits_per_character" value="5" />
+            <configuration_option name="session.sid_length" value="26" />
+            <configuration_option name="session.trans_sid_hosts" value="" />
+            <configuration_option name="session.trans_sid_tags" value="a=href,area=href,frame=src,form=" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
             <configuration_option name="session.upload_progress.freq" value="1%" />
@@ -211,74 +209,15 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="100M" />
+            <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
-            <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
+            <configuration_option name="url_rewriter.hosts" value="" />
+            <configuration_option name="url_rewriter.tags" value="form=" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
-            <configuration_option name="xdebug.auto_trace" value="0" />
-            <configuration_option name="xdebug.cli_color" value="0" />
-            <configuration_option name="xdebug.collect_assignments" value="0" />
-            <configuration_option name="xdebug.collect_includes" value="1" />
-            <configuration_option name="xdebug.collect_params" value="0" />
-            <configuration_option name="xdebug.collect_return" value="0" />
-            <configuration_option name="xdebug.collect_vars" value="0" />
-            <configuration_option name="xdebug.coverage_enable" value="1" />
-            <configuration_option name="xdebug.default_enable" value="1" />
-            <configuration_option name="xdebug.dump.COOKIE" value="" />
-            <configuration_option name="xdebug.dump.ENV" value="" />
-            <configuration_option name="xdebug.dump.FILES" value="" />
-            <configuration_option name="xdebug.dump.GET" value="" />
-            <configuration_option name="xdebug.dump.POST" value="" />
-            <configuration_option name="xdebug.dump.REQUEST" value="" />
-            <configuration_option name="xdebug.dump.SERVER" value="" />
-            <configuration_option name="xdebug.dump.SESSION" value="" />
-            <configuration_option name="xdebug.dump_globals" value="1" />
-            <configuration_option name="xdebug.dump_once" value="1" />
-            <configuration_option name="xdebug.dump_undefined" value="0" />
-            <configuration_option name="xdebug.extended_info" value="1" />
-            <configuration_option name="xdebug.file_link_format" value="" />
-            <configuration_option name="xdebug.force_display_errors" value="0" />
-            <configuration_option name="xdebug.force_error_reporting" value="0" />
-            <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="256" />
-            <configuration_option name="xdebug.max_stack_frames" value="-1" />
-            <configuration_option name="xdebug.overload_var_dump" value="2" />
-            <configuration_option name="xdebug.profiler_aggregate" value="0" />
-            <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
-            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
-            <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="0" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
-            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="0" />
-            <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
-            <configuration_option name="xdebug.remote_log" value="" />
-            <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
-            <configuration_option name="xdebug.scream" value="0" />
-            <configuration_option name="xdebug.show_error_trace" value="0" />
-            <configuration_option name="xdebug.show_exception_trace" value="0" />
-            <configuration_option name="xdebug.show_local_vars" value="0" />
-            <configuration_option name="xdebug.show_mem_delta" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.trace_format" value="0" />
-            <configuration_option name="xdebug.trace_options" value="0" />
-            <configuration_option name="xdebug.trace_output_dir" value="/var/tmp/" />
-            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
-            <configuration_option name="xdebug.var_display_max_children" value="128" />
-            <configuration_option name="xdebug.var_display_max_data" value="512" />
-            <configuration_option name="xdebug.var_display_max_depth" value="20" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.assertions" value="1" />
@@ -291,11 +230,7 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -324,7 +259,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -346,7 +280,6 @@
             <extension name="sysvshm" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />

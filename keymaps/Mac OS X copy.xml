@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -71,6 +72,7 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -86,6 +88,8 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -104,6 +108,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />

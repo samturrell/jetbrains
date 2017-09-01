@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>

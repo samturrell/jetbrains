@@ -1,6 +1,10 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Vue" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>

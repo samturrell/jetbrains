@@ -112,6 +112,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>

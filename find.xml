@@ -10,7 +10,6 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
       <mask>*.vue</mask>
@@ -19,7 +18,6 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
@@ -27,6 +25,9 @@
       <mask>*.coffee</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

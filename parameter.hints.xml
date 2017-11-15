@@ -7,6 +7,7 @@
         <added pattern="\Hatchly\Pages\Page.attr(keyPath,options,dataSource)" />
         <added pattern="\app(make,parameters)" />
         <added pattern="\route(name,parameters,absolute)" />
+        <added pattern="\compact(varname,_)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="Groovy" />

@@ -33,6 +33,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="1000" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>

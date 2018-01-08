@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,*.volt" />
     <recentFileMasks>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>p</mask>
-      <mask>php</mask>
       <mask>*php</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -34,6 +28,13 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,*</mask>
+      <mask>*.php,*.</mask>
+      <mask>*.php,*.v</mask>
+      <mask>*.php,*.vo</mask>
+      <mask>*.php,*.vol</mask>
+      <mask>*.php,*.volt</mask>
     </recentFileMasks>
   </component>
 </application>

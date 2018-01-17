@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />

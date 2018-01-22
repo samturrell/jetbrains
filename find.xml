@@ -14,7 +14,6 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>p</mask>
       <mask>php</mask>
@@ -38,6 +37,7 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

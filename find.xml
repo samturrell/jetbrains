@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.php,*.vo</mask>
       <mask>*.php,*.vol</mask>
       <mask>*.php,*.volt</mask>
       <mask>*.s</mask>
@@ -34,6 +33,7 @@
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.blade.php</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>

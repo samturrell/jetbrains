@@ -18,7 +18,6 @@
       <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
-      <mask>*.blade.php</mask>
       <mask>*.blad.php</mask>
       <mask>*.bla.php</mask>
       <mask>*.bl.php</mask>
@@ -34,6 +33,7 @@
       <mask>*.vue</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>

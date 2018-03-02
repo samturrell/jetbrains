@@ -31,9 +31,9 @@
       <mask>*.blade.php</mask>
       <mask>*.vue</mask>
       <mask>*.coffee</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.vue</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

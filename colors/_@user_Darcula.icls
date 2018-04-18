@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T19:19:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-04-15T22:05:44</property>
+    <property name="modified">2018-04-18T11:19:11</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.75" />
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.75" />
   <colors>
     <option name="FILESTATUS_ADDED" value="80cbc4" />
     <option name="FILESTATUS_DELETED" value="f77669" />

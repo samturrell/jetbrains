@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.php,*.volt</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*php</mask>
-      <mask>*.bphp</mask>
-      <mask>*.blaphp</mask>
-      <mask>*.bladphp</mask>
-      <mask>*.bladephp</mask>
-      <mask>*.blad.php</mask>
-      <mask>*.bla.php</mask>
-      <mask>*.bl.php</mask>
-      <mask>*.b.php</mask>
-      <mask>*..php</mask>
-      <mask>*.ph</mask>
-      <mask>*.j</mask>
-      <mask>*.vu</mask>
-      <mask>*.v</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.coffee</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.vue</mask>
-      <mask>*.vue</mask>
-      <mask>*.blade.php</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
   </component>
 </application>

@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="version" value="2.7.0" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />

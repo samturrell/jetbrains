@@ -10,6 +10,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
     </extensionMap>

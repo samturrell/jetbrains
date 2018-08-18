@@ -5,5 +5,15 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/jest-matcher-utils" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/jest-matchers" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

@@ -12,8 +12,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.less</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

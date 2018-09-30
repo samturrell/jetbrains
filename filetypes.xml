@@ -13,7 +13,6 @@
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

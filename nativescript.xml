@@ -1,0 +1,5 @@
+<application>
+  <component name="NsSettings">
+    <option name="executablePath" value="$USER_HOME$/.nvm/versions/node/v8.11.3/bin/tns" />
+  </component>
+</application>

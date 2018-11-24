@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".nowignore" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="gql" type="GraphQL" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <mapping pattern=".crayonrc" type="JSON" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
-      <mapping pattern="static" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
+      <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
     </extensionMap>

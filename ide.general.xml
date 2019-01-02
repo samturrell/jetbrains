@@ -12,7 +12,7 @@
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
-    <entry key="ide.svg.icon" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>

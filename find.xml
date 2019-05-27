@@ -13,9 +13,9 @@
     <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.blade.php</mask>
-    <mask>*.vue</mask>
     <mask>*.gql</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

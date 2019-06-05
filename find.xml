@@ -15,7 +15,7 @@
     <mask>*.blade.php</mask>
     <mask>*.gql</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>

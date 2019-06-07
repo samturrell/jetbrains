@@ -123,6 +123,10 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />

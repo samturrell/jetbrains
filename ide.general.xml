@@ -14,5 +14,8 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="SBT.system.in.process" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>

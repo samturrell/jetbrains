@@ -4,7 +4,7 @@
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
@@ -29,6 +29,9 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />

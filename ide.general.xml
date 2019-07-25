@@ -17,5 +17,6 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>

@@ -1,26 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="ignore" type="Git exclude file" />
-      <mapping ext="gql" type="GraphQL" />
-      <removed_mapping ext="gql" approved="true" type="Graql" />
       <mapping pattern=".crayonrc" type="JSON" />
+      <mapping pattern="static" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
-      <mapping pattern="hot" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="static" type="PLAIN_TEXT" />
+      <mapping pattern="hot" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -28,8 +23,11 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="gql" type="GraphQL" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".nowignore" type="Git file" />
+      <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
 </application>

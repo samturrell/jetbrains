@@ -1,5 +1,6 @@
 <application>
   <component name="CssEmmetOptions">
     <option name="autoInsertCssPrefixedEnabled" value="false" />
+    <option name="fuzzySearchEnabled" value="true" />
   </component>
 </application>

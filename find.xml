@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -13,10 +14,10 @@
     <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.blade.php</mask>
-    <mask>*.gql</mask>
     <mask>*.html</mask>
     <mask>*.coffee</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.gql</mask>
   </component>
 </application>

@@ -3,4 +3,11 @@
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="vtransition" value=".$NAME$-enter-active, .$NAME$-leave-active {&#10;    transition: opacity .5s;&#10;}&#10;.$NAME$-enter, .$NAME$-leave-to {&#10;    opacity: 0;&#10;}" description="Generate transition classes" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="fade" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>

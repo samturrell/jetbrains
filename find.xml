@@ -15,8 +15,8 @@
     <mask>*.html</mask>
     <mask>*.coffee</mask>
     <mask>*.gql</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>

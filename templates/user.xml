@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="story" value="export default {&#10;    title: '$title$',&#10;};&#10;&#10;export const $storyName$ = () =&gt; ({&#10;    template: `$template$`,&#10;});&#10;&#10;$storyName$.story = {&#10;    name: '$name$',&#10;};&#10;" description="Storybook (CSF) story" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="storyName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="template" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ukhc.edge" type="Blade" />
       <mapping ext="gql" type="GraphQL" />
-      <removed_mapping ext="gql" approved="true" type="Graql" />
       <mapping ext="edge" type="HTML" />
       <mapping ext="cshtml" type="HTML" />
       <mapping pattern=".crayonrc" type="JSON" />

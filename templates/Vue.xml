@@ -1,7 +1,6 @@
 <templateSet group="Vue">
   <template name="vbase" value="&lt;template&gt;&#10;    &lt;div class=&quot;$name$&quot;&gt;&#10;        &#10;    &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default {&#10;        name: '$name$',&#10;    };&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;    .$name$ {&#10;        &#10;    }&#10;&lt;/style&gt;&#10;" description="Vue single file component" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vtransition" value=".$NAME$-enter-active, .$NAME$-leave-active {&#10;    transition: opacity .5s;&#10;}&#10;.$NAME$-enter, .$NAME$-leave-to {&#10;    opacity: 0;&#10;}" description="Generate transition classes" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="fade" alwaysStopAt="true" />

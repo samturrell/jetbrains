@@ -5,6 +5,7 @@
       <mapping ext="gql" type="GraphQL" />
       <mapping ext="edge" type="HTML" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
       <mapping pattern="static" type="PLAIN_TEXT" />

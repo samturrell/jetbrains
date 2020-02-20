@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>

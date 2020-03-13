@@ -1,0 +1,16 @@
+<templateSet group="JavaScript">
+  <template name="story" value="import $component$ from '../../resources/components/$componentDirectory$$component$';&#10;$ContainerDecorator$&#10;&#10;export const $componentName$ = () =&gt; ({&#10;    components: {&#10;        $component$,&#10;    },&#10;    &#10;    template: `&#10;        &lt;$template$ :$prop$=&quot;$prop$&quot;/&gt;&#10;    `,&#10;    &#10;    props: {&#10;        $prop$: {&#10;            default: $propDefault$,&#10;        },&#10;    },&#10;});&#10;&#10;$componentName$.story = {&#10;    name: '$StoryName$',&#10;&#10;    decorators: [$decorator$],&#10;};" description="Scaffold a storybook story" toReformat="false" toShortenFQNames="true">
+    <variable name="component" expression="capitalize(camelCase(substringBefore(fileNameWithoutExtension(),&quot;.&quot;)))" defaultValue="" alwaysStopAt="false" />
+    <variable name="componentDirectory" expression="&quot;Component Directory&quot;" defaultValue="&quot;directory/&quot;" alwaysStopAt="true" />
+    <variable name="ContainerDecorator" expression="&quot;Container Decorator&quot;" defaultValue="&quot;import ContainerDecorator from '../decorators/ContainerDecorator';&quot;" alwaysStopAt="true" />
+    <variable name="componentName" expression="camelCase(substringBefore(fileNameWithoutExtension(),&quot;.&quot;))" defaultValue="" alwaysStopAt="false" />
+    <variable name="template" expression="lowercaseAndDash(substringBefore(fileNameWithoutExtension(),&quot;.&quot;))" defaultValue="" alwaysStopAt="false" />
+    <variable name="prop" expression="&quot;prop&quot;" defaultValue="&quot;'prop'&quot;" alwaysStopAt="true" />
+    <variable name="propDefault" expression="&quot;'default value'&quot;" defaultValue="&quot;'Lorem ipsum'&quot;" alwaysStopAt="true" />
+    <variable name="StoryName" expression="&quot;Story Name&quot;" defaultValue="&quot;default&quot;" alwaysStopAt="true" />
+    <variable name="decorator" expression="&quot;Decorator&quot;" defaultValue="&quot;// ContainerDecorator&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

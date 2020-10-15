@@ -8,6 +8,7 @@
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
+      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />
       <mapping pattern=".browslerslistrc" type="PLAIN_TEXT" />

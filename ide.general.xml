@@ -19,6 +19,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.suppress.double.click.handler" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

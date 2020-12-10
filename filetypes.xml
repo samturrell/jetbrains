@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ukhc.edge" type="Blade" />
-      <mapping ext="gql" type="GraphQL" />
       <mapping ext="cshtml" type="HTML" />
       <mapping ext="edge" type="HTML" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
@@ -35,6 +33,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".nowignore" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
+      <mapping pattern="ukhc.edge" type="Blade" />
     </extensionMap>
   </component>
 </application>

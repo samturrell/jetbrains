@@ -33,6 +33,9 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,script,style" />
+  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -59,11 +62,6 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
@@ -93,7 +91,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">

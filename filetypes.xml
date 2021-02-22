@@ -26,7 +26,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="edge" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />

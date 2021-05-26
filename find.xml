@@ -17,7 +17,7 @@
     <mask>*.gql</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

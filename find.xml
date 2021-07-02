@@ -14,10 +14,10 @@
     <mask>*.blade.php</mask>
     <mask>*.html</mask>
     <mask>*.coffee</mask>
-    <mask>*.gql</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.gql</mask>
   </component>
 </application>

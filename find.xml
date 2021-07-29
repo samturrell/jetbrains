@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.stories.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,5 +20,6 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.gql</mask>
+    <mask>*.stories.js</mask>
   </component>
 </application>

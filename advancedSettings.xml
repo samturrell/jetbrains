@@ -1,0 +1,10 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="ide.suppress.double.click.handler" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

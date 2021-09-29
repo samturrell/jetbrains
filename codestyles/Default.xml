@@ -15,6 +15,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
     <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>

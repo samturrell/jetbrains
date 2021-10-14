@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/resources/components/royalties/PaymentsMadeTable/PaymentsMadeTable.spec.js'" />
-    <option name="defaultScopeName" value="File '…/resources/components/royalties/PaymentsMadeTable/PaymentsMadeTable.spec.js'" />
-    <option name="SEARCH_SCOPE" value="File '…/resources/components/royalties/PaymentsMadeTable/PaymentsMadeTable.spec.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>

@@ -4,7 +4,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="bigger.font.in.project.view" value="true" />
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
     <entry key="mac.editor.thumb.darcula.alpha.base" value="0" />

@@ -2,18 +2,16 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ukhc.edge" type="Blade" />
-      <mapping ext="graphqls" type="GraphQL" />
-      <mapping ext="gql" type="GraphQL" />
       <mapping ext="cshtml" type="HTML" />
       <mapping ext="edge" type="HTML" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern=".browslerslistrc" type="PLAIN_TEXT" />
@@ -22,13 +20,14 @@
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="edge" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />

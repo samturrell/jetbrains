@@ -1,0 +1,22 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///--list-extensions" />
+      </list>
+    </option>
+    <option name="supportedFilePatterns">
+      <list>
+        <option value="*.conf" />
+        <option value="*.ini" />
+        <option value="*.json" />
+        <option value="*.log" />
+        <option value="*.md" />
+        <option value="*.sh" />
+        <option value="*.txt" />
+        <option value="*.xml" />
+        <option value="*.yml" />
+      </list>
+    </option>
+  </component>
+</application>

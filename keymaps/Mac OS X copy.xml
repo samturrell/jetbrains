@@ -123,6 +123,12 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift meta alt f5" />
+  </action>
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift meta alt f6" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />

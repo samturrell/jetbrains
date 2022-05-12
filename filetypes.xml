@@ -7,6 +7,7 @@
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />

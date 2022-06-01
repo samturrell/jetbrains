@@ -16,12 +16,12 @@
     <mask>*.php</mask>
     <mask>!*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*Module*.spec.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*Module*.spec.js</mask>
   </component>
 </application>

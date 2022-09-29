@@ -17,12 +17,13 @@
     <mask>!*.test.js</mask>
     <mask>*.js</mask>
     <mask>*Module*.spec.js</mask>
+    <mask>*.graphql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.graphql</mask>
+    <mask>*.twig</mask>
   </component>
 </application>

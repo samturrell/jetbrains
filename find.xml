@@ -13,17 +13,17 @@
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>!*.test.js</mask>
     <mask>*.js</mask>
     <mask>*Module*.spec.js</mask>
     <mask>*.graphql</mask>
+    <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>

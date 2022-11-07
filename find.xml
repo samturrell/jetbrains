@@ -14,7 +14,6 @@
     <mask>*.spec.js</mask>
     <mask>*.vue</mask>
     <mask>!*.test.js</mask>
-    <mask>*.js</mask>
     <mask>*Module*.spec.js</mask>
     <mask>*.graphql</mask>
     <mask>*.twig</mask>
@@ -25,5 +24,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>

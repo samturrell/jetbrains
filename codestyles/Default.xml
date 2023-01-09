@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
@@ -9,7 +11,6 @@
   <codeStyleSettings language="Vue">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>

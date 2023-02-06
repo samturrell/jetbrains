@@ -2,28 +2,28 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ukhc.edge" type="Blade" />
-      <mapping ext="edge" type="HTML" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping ext="edge" type="HTML" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
-      <mapping pattern="static" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browslerslistrc" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />

@@ -8,6 +8,12 @@
   <VueCodeStyleSettings>
     <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,script,style" />
   </VueCodeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />

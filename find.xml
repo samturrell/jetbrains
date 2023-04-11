@@ -13,7 +13,7 @@
     <mask>*.gql</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.stories.js</mask>
   </component>
 </application>

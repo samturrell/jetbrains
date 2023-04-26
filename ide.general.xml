@@ -27,6 +27,7 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
       </map>
     </option>
   </component>

@@ -4,7 +4,7 @@
     <property name="created">2021-08-05T11:48:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-05T11:54:44</property>
+    <property name="modified">2023-05-18T14:45:11</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -60,6 +60,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffdb8e" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffdb8e" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffdb8e" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6f737a" />
     <option name="FILESTATUS_MERGED" value="70b0ff" />
     <option name="FILESTATUS_MODIFIED" value="34d3fb" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34d3fb" />
@@ -3607,8 +3608,6 @@
         <option name="FOREGROUND" value="7e8eda" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="57b6c2" />

@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="754" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

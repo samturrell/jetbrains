@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="showTipsOnStartup" value="false" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="-1" />
   </component>
   <component name="Registry">
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
@@ -22,8 +23,8 @@
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="5a5d63" />
-    <entry key="editor.focus.mode.color.dark" value="5a5d63" />
+    <entry key="editor.focus.mode.color.light" value="415967" />
+    <entry key="editor.focus.mode.color.dark" value="415967" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

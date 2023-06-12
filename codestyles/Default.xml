@@ -2,6 +2,9 @@
   <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>

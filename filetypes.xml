@@ -6,7 +6,6 @@
       <mapping ext="edge" type="HTML" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="static" type="PLAIN_TEXT" />
@@ -38,6 +37,7 @@
       <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".nowignore" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />

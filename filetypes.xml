@@ -10,6 +10,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />

@@ -9,6 +9,10 @@
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
     <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,script,style" />
   </VueCodeStyleSettings>

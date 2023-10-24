@@ -14,6 +14,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+    <option name="USE_PATH_MAPPING" value="NEVER" />
   </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,script,style" />

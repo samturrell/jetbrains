@@ -16,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.stories.tsx</mask>
   </component>
 </application>

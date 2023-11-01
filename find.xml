@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,6 @@
     <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.stories.tsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

@@ -6,25 +6,20 @@
   </component>
   <component name="Registry">
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
-    <entry key="ide.animate.toolwindows" value="true" />
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.default.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.alpha.base" value="0" />
     <entry key="SBT.system.in.process" value="true" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.dark" value="415967" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.experimental.ui" value="true" />
-    <entry key="editor.focus.mode.color.light" value="415967" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
-    <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />

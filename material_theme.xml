@@ -4,9 +4,11 @@
     <option name="isWizardShown" value="true" />
     <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="009688" />
+    <option name="secondAccentColor" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="focusColor" />
     <option name="userId" value="-5f350dcc:163f88ef439:-7fff" />
-    <option name="version" value="8.11.0" />
+    <option name="version" value="8.13.2" />
     <option name="tabHighlightPosition" value="Bottomless" />
   </component>
 </application>

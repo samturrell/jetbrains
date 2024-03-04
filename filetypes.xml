@@ -6,7 +6,6 @@
       <mapping ext="edge" type="HTML" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".crayonrc" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="commit-msg" type="JavaScript" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />

@@ -19,5 +19,6 @@
     <mask>*.d.ts</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

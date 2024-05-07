@@ -522,8 +522,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
@@ -2335,14 +2335,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="415967" />

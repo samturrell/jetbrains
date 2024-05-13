@@ -20,6 +20,10 @@
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="ide.animate.toolwindows" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

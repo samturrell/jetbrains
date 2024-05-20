@@ -11,6 +11,7 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+    <option name="BLACKLIST_IMPORTS" value="rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**,**/*.stories.ts" />
     <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">

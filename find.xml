@@ -16,10 +16,10 @@
     <mask>*.stories.tsx</mask>
     <mask>*.spec.js</mask>
     <mask>*.tsx</mask>
-    <mask>*.d.ts</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.stories.ts</mask>
+    <mask>*.d.ts</mask>
   </component>
 </application>

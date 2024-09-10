@@ -20,6 +20,7 @@
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="i18n.locale" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

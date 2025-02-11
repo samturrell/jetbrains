@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.stories.js" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,7 +14,6 @@
     <mask>*.php</mask>
     <mask>*.vb</mask>
     <mask>*.stories.tsx</mask>
-    <mask>*.spec.js</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.stories.ts</mask>
@@ -25,5 +24,6 @@
     <mask>*.graphql</mask>
     <mask>*.json</mask>
     <mask>*.stories.js</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>

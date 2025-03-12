@@ -22,7 +22,7 @@
     <mask>*.vue</mask>
     <mask>*.graphql</mask>
     <mask>*.json</mask>
-    <mask>*.stories.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.stories.js</mask>
   </component>
 </application>

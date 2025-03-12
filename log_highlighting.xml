@@ -1,9 +1,10 @@
 <application>
   <component name="LogHighlightingSettings">
     <highlightingPatterns>
-      <LogHighlightingPattern pattern="^\s*(e(rror)?|severe)\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" uuid="de2d3bb2-78c9-4beb-835e-d483c35c07b6" />
-      <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" uuid="11ff1574-2118-4722-905a-61bec89b079e" />
-      <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" uuid="5e882ebc-2179-488b-8e1a-2fe488636f36" />
+      <LogHighlightingPattern pattern="^\s*(e(rror)?|severe)\s*$" action="HIGHLIGHT_LINE" fg="{&quot;lightRgb&quot;:-65536,&quot;darkRgb&quot;:-65536}" bold="true" uuid="de2d3bb2-78c9-4beb-835e-d483c35c07b6" />
+      <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="{&quot;lightRgb&quot;:-22016,&quot;darkRgb&quot;:-22016}" bold="true" uuid="11ff1574-2118-4722-905a-61bec89b079e" />
+      <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="{&quot;lightRgb&quot;:-12599489,&quot;darkRgb&quot;:-12599489}" uuid="5e882ebc-2179-488b-8e1a-2fe488636f36" />
     </highlightingPatterns>
+    <settingsVersion>11</settingsVersion>
   </component>
 </application>

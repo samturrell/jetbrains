@@ -5,6 +5,7 @@
       <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="{&quot;lightRgb&quot;:-22016,&quot;darkRgb&quot;:-22016}" bold="true" uuid="11ff1574-2118-4722-905a-61bec89b079e" />
       <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="{&quot;lightRgb&quot;:-12599489,&quot;darkRgb&quot;:-12599489}" uuid="5e882ebc-2179-488b-8e1a-2fe488636f36" />
     </highlightingPatterns>
-    <settingsVersion>11</settingsVersion>
+    <settingsVersion>13</settingsVersion>
+    <readonlySizeThreshold>20971520</readonlySizeThreshold>
   </component>
 </application>

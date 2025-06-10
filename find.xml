@@ -16,7 +16,6 @@
     <mask>*.scss</mask>
     <mask>*.stories.ts</mask>
     <mask>*.d.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.vue</mask>
     <mask>*.graphql</mask>
     <mask>*.json</mask>
@@ -24,5 +23,6 @@
     <mask>*.stories.js</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

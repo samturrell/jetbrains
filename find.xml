@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,9 +24,9 @@
     <mask>*.spec.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*Item.tsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

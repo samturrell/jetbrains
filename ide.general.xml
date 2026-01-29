@@ -21,12 +21,6 @@
     <entry key="ide.tree.ui.experimental" value="false" source="SYSTEM" />
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" source="SYSTEM" />
     <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
-    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
-    <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
-    <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
-    <entry key="idea.islands.color.gradient.enabled" value="true" source="SYSTEM" />
-    <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

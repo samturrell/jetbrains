@@ -32,6 +32,8 @@
     <entry key="idea.islands.color.gradient.enabled" value="true" source="SYSTEM" />
     <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
     <entry key="new.search.everywhere.font.size.delta" value="4" source="SYSTEM" />
+    <entry key="llm.chat.agent.codex.install.codex.version" value="0.98.0" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.23" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

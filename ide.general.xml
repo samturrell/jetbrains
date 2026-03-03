@@ -25,8 +25,8 @@
     <entry key="jetbrains.security.package-checker.enableUvTransitiveDependencies" value="false" source="MANAGER" />
     <entry key="jetbrains.security.package-checker.enableVenvTransitiveDependencies" value="false" source="MANAGER" />
     <entry key="jetbrains.security.package-checker.depthLimitOfTransitiveDependencies" value="3" source="MANAGER" />
-    <entry key="llm.chat.agent.codex.install.codex.version" value="0.98.0" source="MANAGER" />
-    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.23" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.codex.version" value="0.106.0" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.27" source="MANAGER" />
     <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
     <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />

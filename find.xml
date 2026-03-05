@@ -23,7 +23,7 @@
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*Item.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.stories.js</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

@@ -27,13 +27,6 @@
     <entry key="jetbrains.security.package-checker.depthLimitOfTransitiveDependencies" value="3" source="MANAGER" />
     <entry key="llm.chat.agent.codex.install.codex.version" value="0.111.0" source="MANAGER" />
     <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.29" source="MANAGER" />
-    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
-    <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
-    <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
-    <entry key="idea.islands.color.gradient.enabled" value="true" source="SYSTEM" />
-    <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
-    <entry key="new.search.everywhere.font.size.delta" value="4" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

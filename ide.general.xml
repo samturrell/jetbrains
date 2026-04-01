@@ -34,6 +34,7 @@
     <entry key="idea.islands.color.gradient.enabled" value="true" source="SYSTEM" />
     <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
     <entry key="new.search.everywhere.font.size.delta" value="4" source="SYSTEM" />
+    <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

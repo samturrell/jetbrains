@@ -1,0 +1,9 @@
+<application>
+  <component name="ClaudeCodeToSState">
+    <option name="acceptedVersions">
+      <map>
+        <entry key="v1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

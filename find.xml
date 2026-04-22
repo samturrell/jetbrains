@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,7 +24,7 @@
     <mask>*.ts</mask>
     <mask>*Item.tsx</mask>
     <mask>*.stories.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.vue</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

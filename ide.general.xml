@@ -24,6 +24,13 @@
     <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.38" source="MANAGER" />
     <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
+    <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
+    <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
+    <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
+    <entry key="new.search.everywhere.font.size.delta" value="4" source="SYSTEM" />
+    <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

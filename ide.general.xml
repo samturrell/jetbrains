@@ -20,8 +20,8 @@
     <entry key="mac.editor.thumb.default.alpha.base" value="0" source="SYSTEM" />
     <entry key="ide.tree.ui.experimental" value="false" source="SYSTEM" />
     <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" source="SYSTEM" />
-    <entry key="llm.chat.agent.codex.install.codex.version" value="0.122.0" source="MANAGER" />
-    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.38" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.codex.version" value="0.125.0" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.40" source="MANAGER" />
     <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
     <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />

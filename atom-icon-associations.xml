@@ -52,6 +52,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^(pre|post)-(checkout|commit|merge|rebase|push)(\.sh)?" />
+            <option name="pattern" value="^(pre|post)-(checkout|commit|merge|rebase|push)(\.sh)?" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Husky Hooks" />
+            <option name="icon" value="/icons/files/huskyhooks.svg" />
+            <option name="iconColor" value="64B5F6" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -317,6 +329,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="ec407a" />
             <option name="folderIconColor" value="f8bbd0" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="pattern" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Syntax" />
+            <option name="icon" value="/syntax.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ef5350" />
+            <option name="folderIconColor" value="FFCDD2" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

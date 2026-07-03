@@ -76,6 +76,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^skills?\.md$" />
+            <option name="pattern" value="^skills?\.md$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Skill" />
+            <option name="icon" value="/icons/files/skill.svg" />
+            <option name="iconColor" value="FFB74D" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -523,6 +535,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="7986CB" />
             <option name="folderIconColor" value="C5CAE9" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(skills?|instructions?)$" />
+            <option name="pattern" value="^[\._]?(skills?|instructions?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Skills" />
+            <option name="icon" value="/skill.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="616161" />
+            <option name="folderIconColor" value="FFA726" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

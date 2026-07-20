@@ -550,6 +550,19 @@
             <option name="folderIconColor" value="FFA726" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(javascripts?|js)$" />
+            <option name="pattern" value="^[\._]?(javascripts?|js)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="JavaScript" />
+            <option name="icon" value="/js.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="F9A825" />
+            <option name="folderIconColor" value="FFFFFF" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

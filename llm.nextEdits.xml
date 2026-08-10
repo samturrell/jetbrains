@@ -1,5 +1,8 @@
 <application>
-  <component name="NextEditSettings"><![CDATA[{
-  "legacyMlCompletionResetApplied": true
-}]]></component>
+  <component name="NextEditSettings">{
+  &quot;legacyMlCompletionResetApplied&quot;: true
+}</component>
+  <component name="NextEditUnifiedModelMigrationState">
+    <option name="migrationDone" value="true" />
+  </component>
 </application>

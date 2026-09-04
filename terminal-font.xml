@@ -1,0 +1,9 @@
+<application>
+  <component name="TerminalFontOptions">
+    <option name="VERSION" value="1" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_SIZE_2D" value="12.0" />
+    <option name="LINE_SPACING" value="1.4" />
+    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+  </component>
+</application>

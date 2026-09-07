@@ -30,6 +30,7 @@
     <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
     <entry key="ide.colorful.toolbar.gradient.radius" value="2000" source="SYSTEM" />
     <entry key="new.search.everywhere.font.size.delta" value="4" source="SYSTEM" />
+    <entry key="llm.chat.detached.compose.panel.cache.size" value="0" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

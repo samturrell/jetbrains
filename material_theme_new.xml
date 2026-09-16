@@ -134,6 +134,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="NOCTIS">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="OCEANIC">
               <value>
                 <MTFavoriteTheme />
@@ -174,6 +179,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="SHADES_OF_PURPLE">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="SKYBLUE">
               <value>
                 <MTFavoriteTheme />
@@ -204,6 +214,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="WINTER_IS_COMING">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
           </map>
         </option>
       </MTFavoriteThemesConfigState>
@@ -213,7 +228,7 @@
         <option name="applicationFrameMigrated" value="true" />
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-3b49b794:18f351466c1:-8000" />
-        <option name="version" value="13.0.0" />
+        <option name="version" value="13.1.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>

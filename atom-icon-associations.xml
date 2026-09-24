@@ -726,6 +726,19 @@
             <option name="folderIconColor" value="b3e5fc" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(virtual|vms?|desktop)$" />
+            <option name="pattern" value="^[\._]?(virtual|vms?|desktop)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="VM" />
+            <option name="icon" value="/vm.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="039be5" />
+            <option name="folderIconColor" value="b3e5fc" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

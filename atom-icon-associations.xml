@@ -160,6 +160,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="history.*$" />
+            <option name="pattern" value="history.*$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="History" />
+            <option name="icon" value="/icons/files/history.svg" />
+            <option name="iconColor" value="8bc34a" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

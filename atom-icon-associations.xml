@@ -751,6 +751,19 @@
             <option name="folderIconColor" value="b3e5fc" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(secure|security)$" />
+            <option name="pattern" value="^[\._]?(secure|security)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Security" />
+            <option name="icon" value="/security.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="f9a825" />
+            <option name="folderIconColor" value="fff9c4" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

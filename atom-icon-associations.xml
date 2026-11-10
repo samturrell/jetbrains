@@ -172,6 +172,30 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^azure-pipelines.*\.ya?ml$" />
+            <option name="pattern" value="^azure-pipelines.*\.ya?ml$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Azure Pipelines" />
+            <option name="icon" value="/icons/files/azurepipelines.svg" />
+            <option name="iconColor" value="4DD0E1" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.snap$" />
+            <option name="pattern" value=".*\.snap$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Snapshots" />
+            <option name="icon" value="/icons/files/snapshot.svg" />
+            <option name="iconColor" value="F06292" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -762,6 +786,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="f9a825" />
             <option name="folderIconColor" value="fff9c4" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(deltas?|diff)$" />
+            <option name="pattern" value="^[\._]?(deltas?|diff)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Delta" />
+            <option name="icon" value="/delta.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="EC407A" />
+            <option name="folderIconColor" value="F8BBD0" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>

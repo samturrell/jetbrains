@@ -801,6 +801,19 @@
             <option name="folderIconColor" value="F8BBD0" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="pattern" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Bot" />
+            <option name="icon" value="/bot.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff5252" />
+            <option name="folderIconColor" value="ffcdd2" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
